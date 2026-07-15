@@ -1,4 +1,4 @@
-# Humanizador
+# Humanizador em pt-br
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/idioma-PT--BR-green.svg)
