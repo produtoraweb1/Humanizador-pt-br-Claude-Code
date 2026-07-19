@@ -200,6 +200,25 @@ Antes de abrir um PR, leia o `AGENTS.md`: ele define o contrato de manutenção 
 - **1.1.0**: Adicionados **#8 Contaminação com português europeu** e **#16 Gerundismo de atendimento**. Calibração de Voz passou a preservar "tu" vs "você" da amostra. Seção de falsos positivos ganhou aviso sobre conectivos formais em texto jurídico/acadêmico. Padrão de formatação numérica passou a cobrir também datas.
 - **1.0.0**: Primeira adaptação para português do Brasil, a partir do humanizer v2.8.2. Reorganizou os 33 padrões originais em 34, substituiu "hifenização de pares de palavras" (específico do inglês) por "estrangeirismos e calques desnecessários", e acrescentou "formatação numérica no padrão americano".
 
+---
+
+## 🤝 Apoio ao projeto
+
+Se esta ferramenta ajudou você, é possível apoiar voluntariamente a manutenção e evolução do projeto.
+
+```txt
+Pix: doacoes@produtoraweb.com
+Cripto: 0xEd46dADa43cb7b4e4D753D631B4E99002530D780
+```
+
+---
+
+## Aviso legal
+
+Use com responsabilidade, revise os prompts antes de enviar e valide alterações importantes antes de publicar qualquer projeto.
+
+---
+
 ## Licença
 
 MIT. Mesma licença do projeto original [blader/humanizer](https://github.com/blader/humanizer).
